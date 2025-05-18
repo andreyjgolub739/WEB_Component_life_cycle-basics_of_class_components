@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WEB_Component_life_cycle-basics_of_class_components.git/static/css/main.e6c13ad2.css",
+    "main.js": "/WEB_Component_life_cycle-basics_of_class_components.git/static/js/main.0325285d.js",
+    "static/js/453.cda00056.chunk.js": "/WEB_Component_life_cycle-basics_of_class_components.git/static/js/453.cda00056.chunk.js",
+    "index.html": "/WEB_Component_life_cycle-basics_of_class_components.git/index.html",
+    "main.e6c13ad2.css.map": "/WEB_Component_life_cycle-basics_of_class_components.git/static/css/main.e6c13ad2.css.map",
+    "main.0325285d.js.map": "/WEB_Component_life_cycle-basics_of_class_components.git/static/js/main.0325285d.js.map",
+    "453.cda00056.chunk.js.map": "/WEB_Component_life_cycle-basics_of_class_components.git/static/js/453.cda00056.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0325285d.js"
+  ]
+}
